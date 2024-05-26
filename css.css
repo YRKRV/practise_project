@@ -48,6 +48,18 @@ h2 {
 @media (min-width: 768px) {
     .main-menu {
         width: 20%;
+        height: 100vh;
+        position: fixed;
+        padding: 2%;
+        margin: 0;
+    }
+    .primary-content {
+        width: 70%;
+        float: right;
+
+    }
+    img {
+        width: 60%;
     }
     
  }
